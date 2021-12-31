@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Active Data</title>
+    <link>https://activedata.dev/</link>
+    <description>Recent content on Active Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Dec 2021 11:20:26 +0100</lastBuildDate><atom:link href="https://activedata.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://activedata.dev/posts/my-first-post/</link>
+      <pubDate>Fri, 31 Dec 2021 11:20:26 +0100</pubDate>
+      
+      <guid>https://activedata.dev/posts/my-first-post/</guid>
+      <description>Welcome to Active Data Project This project aims to combine CI/CD pipelines of DataOps with a Data Catalog to implement an active, living, allways up-to-date catalog.</description>
+    </item>
+    
+  </channel>
+</rss>
