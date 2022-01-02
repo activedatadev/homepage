@@ -2,17 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://activedata.dev/</loc>
-    <lastmod>2021-12-31T11:20:26+01:00</lastmod>
-  </url><url>
     <loc>https://activedata.dev/posts/</loc>
-    <lastmod>2021-12-31T11:20:26+01:00</lastmod>
+    <lastmod>2022-01-02T17:21:12+01:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://activedata.dev/</loc>
+    <lastmod>2022-01-02T17:21:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://activedata.dev/posts/test_post/</loc>
+    <lastmod>2022-01-02T17:21:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://activedata.dev/products/</loc>
+    <lastmod>2022-01-02T16:41:28+01:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://activedata.dev/products/deployer/</loc>
+    <lastmod>2022-01-02T16:41:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://activedata.dev/products/catalog/</loc>
+    <lastmod>2022-01-02T16:41:19+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://activedata.dev/pages/</loc>
+    <lastmod>2022-01-02T16:19:16+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://activedata.dev/posts/my-first-post/</loc>
     <lastmod>2021-12-31T11:20:26+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://activedata.dev/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://activedata.dev/products/notifier/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://activedata.dev/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

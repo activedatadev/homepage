@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Active Data</title>
+    <title>Home on Active Data Suite</title>
     <link>https://activedata.dev/</link>
-    <description>Recent content on Active Data</description>
+    <description>Recent content in Home on Active Data Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 11:20:26 +0100</lastBuildDate><atom:link href="https://activedata.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jan 2022 17:21:12 +0100</lastBuildDate><atom:link href="https://activedata.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_post</title>
+      <link>https://activedata.dev/posts/test_post/</link>
+      <pubDate>Sun, 02 Jan 2022 17:21:12 +0100</pubDate>
+      
+      <guid>https://activedata.dev/posts/test_post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployer</title>
+      <link>https://activedata.dev/products/deployer/</link>
+      <pubDate>Sun, 02 Jan 2022 16:41:28 +0100</pubDate>
+      
+      <guid>https://activedata.dev/products/deployer/</guid>
+      <description>Continuous Deployer </description>
+    </item>
+    
+    <item>
+      <title>Data Catalog</title>
+      <link>https://activedata.dev/products/catalog/</link>
+      <pubDate>Sun, 02 Jan 2022 16:41:19 +0100</pubDate>
+      
+      <guid>https://activedata.dev/products/catalog/</guid>
+      <description>Active Data Catalog </description>
+    </item>
+    
+    <item>
+      <title>Pages</title>
+      <link>https://activedata.dev/pages/</link>
+      <pubDate>Sun, 02 Jan 2022 16:19:16 +0100</pubDate>
+      
+      <guid>https://activedata.dev/pages/</guid>
+      <description>Homepage </description>
+    </item>
+    
     <item>
       <title>Welcome</title>
       <link>https://activedata.dev/posts/my-first-post/</link>
@@ -14,6 +50,15 @@
       
       <guid>https://activedata.dev/posts/my-first-post/</guid>
       <description>Welcome to Active Data Project This project aims to combine CI/CD pipelines of DataOps with a Data Catalog to implement an active, living, allways up-to-date catalog.</description>
+    </item>
+    
+    <item>
+      <title>Notifier</title>
+      <link>https://activedata.dev/products/notifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activedata.dev/products/notifier/</guid>
+      <description>Notifier for Events Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus est nec nunc lacinia aliquet. Phasellus feugiat eros eu aliquet viverra. Duis bibendum sit amet nisi lobortis vulputate. Morbi sed erat viverra, imperdiet urna sed, condimentum mi. Donec suscipit ex ac eros interdum, eu sagittis enim pretium. Morbi fringilla vehicula mi, sed molestie ex volutpat sed. Nunc vitae commodo eros. Etiam tincidunt ultricies nulla, et fermentum ligula. Pellentesque at urna volutpat, faucibus urna vitae, malesuada libero.</description>
     </item>
     
   </channel>
