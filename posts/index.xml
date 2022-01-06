@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Active Data Suite</title>
+    <title>⠀ on Active Data Suite</title>
     <link>https://activedata.dev/posts/</link>
-    <description>Recent content on Active Data Suite</description>
+    <description>Recent content in ⠀ on Active Data Suite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jan 2022 17:21:12 +0100</lastBuildDate><atom:link href="https://activedata.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 18:38:34 +0100</lastBuildDate><atom:link href="https://activedata.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test_post</title>
-      <link>https://activedata.dev/posts/test_post/</link>
-      <pubDate>Sun, 02 Jan 2022 17:21:12 +0100</pubDate>
+      <title>What is a data catalog?</title>
+      <link>https://activedata.dev/posts/what_is_a_data_catalog/</link>
+      <pubDate>Thu, 06 Jan 2022 18:38:34 +0100</pubDate>
       
-      <guid>https://activedata.dev/posts/test_post/</guid>
+      <guid>https://activedata.dev/posts/what_is_a_data_catalog/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://activedata.dev/posts/my-first-post/</link>
-      <pubDate>Fri, 31 Dec 2021 11:20:26 +0100</pubDate>
-      
-      <guid>https://activedata.dev/posts/my-first-post/</guid>
-      <description>Welcome to Active Data Project This project aims to combine CI/CD pipelines of DataOps with a Data Catalog to implement an active, living, allways up-to-date catalog.</description>
     </item>
     
   </channel>
